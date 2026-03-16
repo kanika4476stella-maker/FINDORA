@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Findora - Campus Lost & Found Platform
 
 A modern, AI-powered campus lost and found platform that helps students quickly locate and recover their lost items using intelligent matching and community-driven reporting.
@@ -340,3 +341,7 @@ Built with ❤️ for campus community recovery.
 **Happy Searching! 🔍**
 
 If you found this helpful, consider contributing back to make Findora even better!
+=======
+# FINDORA
+Students often lose important items on campus such as ID cards, wallets, earphones, or notebooks. In most cases, there is no proper system that helps students report or recover these belongings easily. Findora is a simple and smart web platform designed to solve this everyday problem by creating a centralized campus lost and found system.
+>>>>>>> a77dc3b8398f455a8905ae3059679f32a8c4589b
